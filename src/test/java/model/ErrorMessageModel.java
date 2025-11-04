@@ -8,4 +8,5 @@ public class ErrorMessageModel {
 
     @Expose
     private String message;
+
 }

@@ -5,7 +5,6 @@ import lombok.Data;
 
 @Data
 public class EntregaModel {
-
     @Expose(serialize = false)
     private int numeroEntrega;
 
